@@ -1,0 +1,30 @@
+h2,
+h3 {
+  background-color: red;
+}
+p {
+  background-color: blue;
+}
+
+span {
+  background-color: brown;
+}
+
+.abc {
+  background-color: red;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: chartreuse;
+}
+.def {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: chartreuse;
+}
+.newHeader {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: cyan;
+}
+
+#kiran {
+  background-color: orange;
+}
