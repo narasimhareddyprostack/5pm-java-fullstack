@@ -1,0 +1,11 @@
+Java - Array
+---------------
+- Group of similar data as one entity.
+- Collection of similar data as one entity.
+- Group of homogeneous data as one entity.
+- group of indexing and similar data as one entity. 
+
+int[] a = {10,20,30}
+
+------------------------------------------
+Array Declaration 
