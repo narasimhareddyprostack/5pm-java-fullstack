@@ -2,3 +2,11 @@ What is access modifiers?
 1)weather class is accesible or not 
 2)wearther child class creation possible or not 
 3)Instantiation(creation object) possible or not 
+
+
+=====================================================
+abstract - applicable for classes and method.
+
+class - abstract 
+----------------
+we will not create object(Instantiation)
